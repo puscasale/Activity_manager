@@ -1,0 +1,19 @@
+# ninja log v6
+38	298	7567469074120199	QT_autogen/timestamp	44ac6e95cbe156b0
+38	298	7567469074120199	QT_autogen/mocs_compilation.cpp	44ac6e95cbe156b0
+38	298	7567469074120199	C:/Users/Ale/Desktop/Year 1/sem 2/oop/QT/cmake-build-debug-coverage/QT_autogen/timestamp	44ac6e95cbe156b0
+38	298	7567469074120199	C:/Users/Ale/Desktop/Year 1/sem 2/oop/QT/cmake-build-debug-coverage/QT_autogen/mocs_compilation.cpp	44ac6e95cbe156b0
+299	459	7567469076729244	CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.obj	2721510d6feea93b
+307	1741	7567469076809242	CMakeFiles/QT.dir/activity.cpp.obj	5a4b5ea32da22ba1
+311	2944	7567469076849258	CMakeFiles/QT.dir/Cart.cpp.obj	a146e858ad6d2c27
+316	3952	7567469076899248	CMakeFiles/QT.dir/Repo.cpp.obj	b0bb27a67399c4ef
+459	4642	7567469078338526	CMakeFiles/QT.dir/tests.cpp.obj	ec1c82c840d3e5b5
+320	4671	7567469076939247	CMakeFiles/QT.dir/Service.cpp.obj	5ca3733d2ab4be44
+303	11294	7567469076769278	CMakeFiles/QT.dir/main.cpp.obj	d0a06e54921e6177
+11294	12310	7567469186681763	QT.exe	2f6fea10d6cac832
+17	113	7567471282673659	QT_autogen/timestamp	44ac6e95cbe156b0
+17	113	7567471282673659	QT_autogen/mocs_compilation.cpp	44ac6e95cbe156b0
+17	113	7567471282673659	C:/Users/Ale/Desktop/Year 1/sem 2/oop/QT/cmake-build-debug-coverage/QT_autogen/timestamp	44ac6e95cbe156b0
+17	113	7567471282673659	C:/Users/Ale/Desktop/Year 1/sem 2/oop/QT/cmake-build-debug-coverage/QT_autogen/mocs_compilation.cpp	44ac6e95cbe156b0
+113	6150	7567471283628166	CMakeFiles/QT.dir/main.cpp.obj	d0a06e54921e6177
+6150	7063	7567471344002968	QT.exe	2f6fea10d6cac832
